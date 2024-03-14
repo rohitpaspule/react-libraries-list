@@ -7,5 +7,7 @@ handy react libraries for utilities
 
 # VS- CODE extention list
 
-##Rust
+## Rust
+- Rust
+- rust-analyzer
   
